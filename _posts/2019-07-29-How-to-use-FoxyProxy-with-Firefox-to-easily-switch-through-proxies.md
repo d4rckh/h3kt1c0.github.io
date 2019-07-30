@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "How to use FoxyProxy with Firefox to easily switch trought proxies"
+title:  "How to use FoxyProxy with Firefox to easily switch through proxies"
 ---
 
-# How to use FoxyProxy with Firefox to easily switch trought proxies
+# How to use FoxyProxy with Firefox to easily switch through proxies
 
 One of the best ways to look for vulnerabilities in a website is by routing traffic through a proxy like Burp Suite, you can discover hidden flaws quickly, but sometimes it's a pain in the ass to turn it on and off manually. But luckily, there is a browser extension called FoxyProxy that automates this process with a single click of a button.
 
