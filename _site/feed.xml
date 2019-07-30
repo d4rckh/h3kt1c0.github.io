@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hektic0</title>
+    <description>Welcome to my blog
+</description>
+    <link>https://hektic0.xyz/</link>
+    <atom:link href="https://hektic0.xyz/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 30 Jul 2019 11:33:34 +0300</pubDate>
+    <lastBuildDate>Tue, 30 Jul 2019 11:33:34 +0300</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>How to use FoxyProxy with Firefox to easily switch trought proxies</title>
+        <description>&lt;h1 id=&quot;how-to-use-foxyproxy-with-firefox-to-easily-switch-trought-proxies&quot;&gt;How to use FoxyProxy with Firefox to easily switch trought proxies&lt;/h1&gt;
+
+&lt;p&gt;One of the best ways to look for vulnerabilities in a website is by routing traffic through a proxy like Burp Suite, you can discover hidden flaws quickly, but sometimes it’s a pain in the ass to turn it on and off manually. But luckily, there is a browser extension called FoxyProxy that automates this process with a single click of a button.&lt;/p&gt;
+
+&lt;h1 id=&quot;why-you-should-use-a-proxy-switcher&quot;&gt;Why you should use a proxy switcher?&lt;/h1&gt;
+
+&lt;p&gt;A proxy switcher is a very helpful tool for penetration testers because the time saved messing around with settings can but a better use.&lt;/p&gt;
+
+&lt;h1 id=&quot;adding-foxyproxy-to-firefox&quot;&gt;Adding FoxyProxy to Firefox&lt;/h1&gt;
+
+&lt;p&gt;Firstly, open firefox and  navigate to the add-ons manager by using &lt;code class=&quot;highlighter-rouge&quot;&gt;CTRL + SHIFT + p&lt;/code&gt;, then click on “Open menu” button in the toolbar then “Add-ons”.&lt;/p&gt;
+
+&lt;p&gt;Now click on “find more add-ons” on the “personalize your firefox” page for “Get add-ons”, and search for &lt;em&gt;FoxyProxy&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;We will use FoxyProxy Basic as it offers enough functionality for what we need. Alternatively, instead of going through all of the above steps, you can just go directly to FoxyProxy Basic’s extension page.&lt;/p&gt;
+
+&lt;p&gt;We can then click “Add to Firefox” to add the extension.&lt;/p&gt;
+
+&lt;p&gt;Make sure to hit “Add” on the prompt to allow access to what it needs.&lt;/p&gt;
+
+&lt;p&gt;We will then be directed to FoxyProxy’s page, which includes a changelog and a bit more information.&lt;/p&gt;
+
+&lt;h1 id=&quot;add-a-custom-proxy&quot;&gt;Add a custom proxy&lt;/h1&gt;
+
+&lt;p&gt;There should now be a little icon in the upper-right area of the browser, next to bookmarks or whatever else is in the toolbar. Click the icon and select “Options” to go to the settings page.&lt;/p&gt;
+
+&lt;p&gt;Next, click “Add” to add a custom proxy.&lt;/p&gt;
+
+&lt;p&gt;With Burp Suite up and running, go to the “Options” tab under “Proxy.” We just want to confirm the default IP address and port since it needs to match in FoxyProxy.&lt;/p&gt;
+
+&lt;p&gt;Now we can fill in the information and give it a title to keep things organized.&lt;/p&gt;
+
+&lt;p&gt;Click “Save,” and our proxy should now appear on the main settings page.&lt;/p&gt;
+
+&lt;p&gt;Now, all we have to do is enable it while Burp is running, allowing us to effortlessly switch the proxy on and off or even switch between different proxies. Click the icon and select “Use proxy Burp for all URLs (ignore patterns)” to turn it on.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Jul 2019 00:00:00 +0300</pubDate>
+        <link>https://hektic0.xyz/2019/07/29/How-to-use-FoxyProxy-with-Firefox-to-easily-switch-trought-proxies.html</link>
+        <guid isPermaLink="true">https://hektic0.xyz/2019/07/29/How-to-use-FoxyProxy-with-Firefox-to-easily-switch-trought-proxies.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
